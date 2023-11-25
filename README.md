@@ -1,3 +1,4 @@
 # ChatUITest
-ChatUITest can automatically generate ui test scripts for an project.
-Under construction
+ChatUITest can automatically generate UI (especially GUI) test scripts for an project.
+
+Under construction.
